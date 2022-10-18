@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Bung_Tomo">
+
+    <TextView
+        android:layout_width="143dp"
+        android:layout_height="171dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="120dp"
+        android:background="@drawable/bung_tomo"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginRight="10dp"
+        android:text="Sutomo (lahir di Surabaya, Jawa Timur, 3 Oktober
+        1920 – meninggal di Padang Arafah, Arab Saudi, 7 Oktober 1981
+        pada umur 61 tahun) lebih dikenal dengan sapaan akrab oleh
+        rakyat sebagai Bung Tomo, adalah pahlawan yang terkenal karena
+        peranannya dalam membangkitkan semangat rakyat untuk melawan
+        kembalinya penjajah Belanda melalui tentara NICA, yang berakhir
+        dengan pertempuran 10 November 1945 yang hingga kini
+        diperingati sebagai Hari Pahlawan."
+        android:textStyle="bold"/>
+</RelativeLayout>

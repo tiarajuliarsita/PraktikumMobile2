@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Mohammad_Hatta">
+
+    <TextView
+        android:layout_width="143dp"
+        android:layout_height="171dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="120dp"
+        android:background="@drawable/mohammad_hatta"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginRight="10dp"
+        android:text="Dr.(HC) Drs. H. Mohammad Hatta (lahir dengan nama
+        Mohammad Athar, dikenal sebagai Bung Hatta; lahir di Fort de
+        Kock (sekarang Bukittinggi, Sumatera Barat), Hindia Belanda, 12
+        Agustus 1902 – meninggal di Jakarta, 14 Maret 1980 pada umur 77
+        tahun) adalah tokoh pejuang, negarawan, ekonom, dan juga Wakil
+        Presiden Indonesia yang pertama. Ia bersama Soekarno memainkan
+        peranan penting untuk memerdekakan bangsa Indonesia dari
+        penjajahan Belanda sekaligus memproklamirkannya pada 17 Agustus
+        1945. Ia juga pernah menjabat sebagai Perdana Menteri dalam
+        Kabinet Hatta I, Hatta II, dan RIS. Ia mundur dari jabatan
+        wakil presiden pada tahun 1956, karena berselisih dengan
+        Presiden Soekarno. Hatta juga dikenal sebagai Bapak Koperasi
+        Indonesia."
+        android:textStyle="bold"/>
+</RelativeLayout>

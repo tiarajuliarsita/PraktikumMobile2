@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sudirman">
+
+    <TextView
+        android:layout_width="143dp"
+        android:layout_height="171dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="120dp"
+        android:background="@drawable/sudirman"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="400dp"
+        android:layout_marginRight="10dp"
+        android:text="Jenderal Besar Raden Soedirman (EYD: Sudirman;
+        lahir 24 Januari 1916 – meninggal 29 Januari 1950 pada umur 34
+        tahun) adalah seorang perwira tinggi Indonesia pada masa
+        Revolusi Nasional Indonesia. Menjadi panglima besar Tentara
+        Nasional Indonesia pertama, ia secara luas terus dihormati di
+        Indonesia. Terlahir dari pasangan rakyat biasa di Purbalingga,
+        Hindia Belanda, Soedirman diadopsi oleh pamannya yang seorang
+        priyayi. Setelah keluarganya pindah ke Cilacap pada tahun 1916,
+        Soedirman tumbuh menjadi seorang siswa rajin; ia sangat aktif
+        dalam kegiatan ekstrakurikuler, termasuk mengikuti program
+        kepanduan yang dijalankan oleh organisasi Islam Muhammadiyah.
+        Saat di sekolah menengah, Soedirman mulai menunjukkan
+        kemampuannya dalam memimpin dan berorganisasi, dan dihormati
+        oleh masyarakat karena ketaatannya pada Islam. Setelah berhenti
+        kuliah keguruan, pada 1936 ia mulai bekerja sebagai seorang
+        guru, dan kemudian menjadi kepala sekolah, di sekolah dasar
+        Muhammadiyah; ia juga aktif dalam kegiatan Muhammadiyah lainnya
+        dan menjadi pemimpin Kelompok Pemuda Muhammadiyah pada tahun
+        1937. Setelah Jepang menduduki Hindia Belanda pada 1942,
+        Soedirman tetap mengajar. Pada tahun 1944, ia bergabung dengan
+        tentara Pembela Tanah Air (PETA) yang disponsori Jepang,
+        menjabat sebagai komandan batalion di Banyumas. Selama
+        menjabat, Soedirman bersama rekannya sesama prajurit melakukan
+        pemberontakan, namun kemudian diasingkan ke Bogor."
+        android:textStyle="bold"/>
+</RelativeLayout>
